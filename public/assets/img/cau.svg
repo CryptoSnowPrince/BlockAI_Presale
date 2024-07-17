@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48">
+	<title>cau</title>
+	<defs>
+		<image  width="48" height="48" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwBAMAAAClLOS0AAAAAXNSR0IB2cksfwAAACpQTFRFAAAAK2yxK2ywK2ywK2ywK2ywK2ywK2ywK2ywK2ywK2ywK2ywK2ywK2ywrBK2hgAAAA50Uk5TAAuO/33npSVlTz64zt/mEqe3AAAA4klEQVR4nGNkAAIhRQaG//c+AFki9g8YmK0mAFmMIInmDUAitgBILO0DErwHYBLKAjAuWInugsEgwbipAcW5ffYgQcYyht8HGVYxPPcBeZDjqEDZA2ZHhl/9jKuNGMoeTFvHMBMkzsAgnsB4+4FWw89ZjIcLYMbAgDNIyVtGYyDJZD0BSWIyyO66wSIhCIzGD1gkJJYIMLzxwCIB4jNlJ2BKwIN4VIKeEuB05tuAKbG2jYGB02QCpgSXxQMG1Z3UST4DIAHKahxXPyBJ1G5jAGW1Ne0MDNPNkMQZOLwfMHCYAgDgg7TT3wqQ4wAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+	</style>
+	<use id="Background" href="#img1" x="0" y="0"/>
+</svg>
